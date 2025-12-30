@@ -98,3 +98,4 @@ scaffold tree.md
 # Verbose output
 scaffold -v pytree.md ./my-project
 ```
+Note for stdin: ENTER creates a new line character, to stop passing input you must put EOF (end of file) which is CTRL-D on linux.
